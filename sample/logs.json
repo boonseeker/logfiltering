@@ -1,0 +1,16 @@
+[
+  {"timestamp": "2025-07-27T10:01:00Z", "message": "Connection timeout", "level": "error"},
+  {"timestamp": "2025-07-27T10:02:00Z", "message": "Connection timeout", "level": "error"},
+  {"timestamp": "2025-07-27T10:03:00Z", "message": "DB unavailable", "level": "warn"},
+  {"timestamp": "2025-07-27T10:04:00Z", "message": "Connection timeout", "level": "error"},
+  {"timestamp": "2025-07-27T10:05:00Z", "message": "DB unavailable", "level": "warn"},
+  {"timestamp": "2025-07-27T10:06:00Z", "message": "Connection timeout", "level": "error"},
+  {"timestamp": "2025-07-27T10:02:00Z", "message": "Connection timeout"},
+  {"timestamp": "2025-07-27T10:03:00Z", "message": "DB unavailable"},
+  {"timestamp": "2025-07-27T10:04:00Z", "message": "Connection timeout"},
+  {"timestamp": "2025-07-27T10:05:00Z", "message": "DB unavailable"},
+    {"timestamp": "2025-07-27T10:06:00Z", "message": "working fine", "level": "info"},
+    {"timestamp": "2025-07-27T10:06:00Z", "message": "working fine", "level": "info"},
+    {"timestamp": "2025-07-27T10:06:00Z", "message": "working fine", "level": "info"},
+    {"timestamp": "2025-07-27T10:06:00Z", "message": "working fine", "level": "info"}
+]   

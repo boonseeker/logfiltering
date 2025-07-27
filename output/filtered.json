@@ -1,0 +1,16 @@
+[
+  {
+    "message": "Connection timeout",
+    "count": 6,
+    "level": "error",
+    "first_seen": "2025-07-27T10:01:00Z",
+    "last_seen": "2025-07-27T10:04:00Z"
+  },
+  {
+    "message": "DB unavailable",
+    "count": 4,
+    "level": "warn",
+    "first_seen": "2025-07-27T10:03:00Z",
+    "last_seen": "2025-07-27T10:05:00Z"
+  }
+]
